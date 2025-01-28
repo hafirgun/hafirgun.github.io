@@ -3,7 +3,7 @@ layout: post
 title: Knowing Customers' Jobs to be done
 subtitle: What is Jobs to be done theory?
 cover-img: /assets/img/jtbd-hash.jpg
-thumbnail-img: /assets/img/jtbd-thumb.png
+thumbnail-img: /assets/img/jtbd-thumb.jpg
 share-img: /assets/img/jtbd-hash.jpg
 tags: [needs, framework]
 author: Firgun Consulting
