@@ -12,8 +12,16 @@ Our main focus area are the following:
 - Automation
 - AI/ML
 
+Below figures summarizes the categories in each of the focus-areas.
+
+
 ![Cloud Lifecycle](/assets/img/cloud-lifecycle.png)
+---
 ![Application in Cloud](/assets/img/Cloud-Apps.png)
+---
 ![Networking](/assets/img/Networking.png)
+---
 ![Automation](/assets/img/Automation.png)
+---
 ![AI/ML](/assets/img/aiml.png)
+---
